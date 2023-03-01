@@ -1,0 +1,3 @@
+-- INSERT INTO Skill_Levels VALUES (1,'Software Engineer 1','basic level');
+-- INSERT INTO Skill_Levels VALUES (2,'Software Engineer 2','pro level');
+-- INSERT INTO Skill_Levels VALUES (3,'Software Engineer 3','pro max level');

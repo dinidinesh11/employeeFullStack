@@ -1,0 +1,3 @@
+-- DROP TABLE IF Exists Skill_Levels;
+--
+-- CREATE TABLE Skill_Levels(skillLevelId INT PRIMARY KEY, skillName VARCHAR(25) NOT NULL, sKillDescription VARCHAR(50) NOT NULL);
